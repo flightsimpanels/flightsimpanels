@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!---
+layout: page
+title: "FlightSim Panels"
+--->
 
-You can use the [editor on GitHub](https://github.com/flightsimpanels/flightsimpanels/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to FlightSim Panels
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On FlightSim Panels you will find printable files for build instrument panels and related to flight simulation. Initially panels provided will be geared towards an TBM 900 cockpit. 
 
-### Markdown
+The work on FlightSim Panels including the 3D models are licenced under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-```markdown
-Syntax highlighted code block
+## Template Panel
+A template for generic construction of a backlit panel. It contains two versions. One with raised text where the text can either be painted white or printed with white filament and a verson with embossed text that requires no painting at all although more complex to print.
 
-# Header 1
-## Header 2
-### Header 3
+## TBM 900 Panels
+### TBM 900 Park Brake Panel
+Tbm 900 park brake panel.
 
-- Bulleted
-- List
+### TBM 900 ECS panel
 
-1. Numbered
-2. List
+### TBM 900 Trilogy ESI2000 Panel
 
-**Bold** and _Italic_ and `Code` text
+### [TBM 900 Glareshield](pages/glareshield.html)
+![3D printed glareshield](assets/glareshield-1.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Misc Panels
+### Truck Ignition Panel
+Panel made for my nephew. He is into truck simulation. This is a simple starter ignition panel. To make it simple its build with an Arduino nano that shows up as a joystick on the PC.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flightsimpanels/flightsimpanels/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
