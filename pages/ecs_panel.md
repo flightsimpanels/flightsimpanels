@@ -6,6 +6,7 @@ title: "TBM 900 ECS Panel"
 # TBM 900 ECS Panel
 
 This is a pretty accurate model of a TBM 900 ECS Panel. It is inspired by the work by FlightSimMaker's TBM Deice Panel available at Thingiverse
+<https://www.thingiverse.com/thing:4625864>
 
 The design consist of a bottom plate and a face plate. Text and symbols are raised on the faceplate. The panel is, not yet, prepared for backlightning
 ![3D Render of ECS Panel](../assets/ecs_panel.png)
