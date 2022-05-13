@@ -12,7 +12,7 @@ This is a pretty accurate model of a TBM 900 glareshield. Its not as deep as the
 The flightsimpanels repository does provide models in both step and shapr3d format.
 <https://github.com/flightsimpanels/flightsimpanels/blob/main/TBM900/Glareshield>
 
-Files suitable for 3D printing will be upload at a later stage on <https://printables.com>
+3mf file for import into slicers are available at printables.com at this location <https://www.printables.com/model/204702-tbm-glareshield>.
 
 Below is the glareshield I built for myself. Its printed on a Prusa Mini+ in 15 parts. The parts has been glued together and the glareshield has be covered with leather imitation made of vinyl.
 
