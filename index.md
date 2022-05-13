@@ -11,6 +11,10 @@ The work on FlightSim Panels including the 3D models are licenced under a <a hre
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
+## TBM 900 Panels
+### [TBM 900 ECS panel](pages/ecs_panel.html)
+![3D model of ECS Panel](assets/ecs_panel.png)
+
 ### [TBM 900 Glareshield](pages/glareshield.html)
 ![3D printed glareshield](assets/glareshield-1.png)
 
@@ -21,8 +25,6 @@ A template for generic construction of a backlit panel. It contains two versions
 ## TBM 900 Panels
 ### TBM 900 Park Brake Panel
 Tbm 900 park brake panel.
-
-### TBM 900 ECS panel
 
 ### TBM 900 Trilogy ESI2000 Panel
 
