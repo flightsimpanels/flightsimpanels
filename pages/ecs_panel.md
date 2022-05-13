@@ -20,4 +20,5 @@ A third option is to print it all black and carefully painting the raised text w
 ![Built ECS Panel](../assets/ecs_panel-built-painted_text.png)
 Build with raised text painted white.
 
-Files suitable for 3D printing will be upload at a later stage on <https://printables.com>
+3mf files are available on printables.com at <https://www.printables.com/model/141258-tbm-ecs-panel>
+
